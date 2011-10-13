@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Scenes</key>
+	<array>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {50, 50}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>spiderman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>6</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Text Plist</key>
+			<string>Scene 1</string>
+			<key>Audio File Name</key>
+			<string>Eminem - Not Afraid</string>
+			<key>Background Image</key>
+			<string>batman-landscape.jpg</string>
+			<key>Characters</key>
+			<array>
+				<dict>
+					<key>Animations</key>
+					<dict>
+						<key>FadeEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<integer>3</integer>
+								<key>Duration</key>
+								<integer>3</integer>
+								<key>Value</key>
+								<integer>0</integer>
+							</dict>
+						</array>
+						<key>ZoomEffects</key>
+						<array>
+							<dict>
+								<key>StartTime</key>
+								<string>3</string>
+								<key>Duration</key>
+								<string>3</string>
+								<key>Value</key>
+								<string>2.5</string>
+							</dict>
+						</array>
+					</dict>
+					<key>Paths</key>
+					<array>
+						<dict>
+							<key>Duration</key>
+							<string>5</string>
+							<key>StartTime</key>
+							<string>3</string>
+							<key>Points</key>
+							<array>
+								<string>{50,50}</string>
+								<string>{100,200}</string>
+								<string>{50,50}</string>
+							</array>
+							<key>RepeatCount</key>
+							<integer>1</integer>
+							<key>New item</key>
+							<string></string>
+						</dict>
+					</array>
+					<key>Frame</key>
+					<string>{{0, 200}, {100, 100}}</string>
+					<key>ImageSource</key>
+					<string>spidey.png</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

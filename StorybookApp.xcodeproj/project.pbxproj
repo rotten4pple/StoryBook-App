@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F19AB0714470DDE008047B3 /* batman-landscape.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9F19AB0514470DDE008047B3 /* batman-landscape.jpg */; };
+		9F19AB0814470DDE008047B3 /* spiderman-landscape.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9F19AB0614470DDE008047B3 /* spiderman-landscape.jpg */; };
+		9F6AC681142A4A1E000077EF /* SceneManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F6AC680142A4A1E000077EF /* SceneManager.m */; };
+		9F6AC684142A4A2E000077EF /* Scene.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F6AC683142A4A2E000077EF /* Scene.m */; };
 		9FC9D7F9142A3BEC00BC31D0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FC9D7F8142A3BEC00BC31D0 /* UIKit.framework */; };
 		9FC9D7FB142A3BEC00BC31D0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FC9D7FA142A3BEC00BC31D0 /* Foundation.framework */; };
 		9FC9D7FD142A3BEC00BC31D0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FC9D7FC142A3BEC00BC31D0 /* CoreGraphics.framework */; };
@@ -14,20 +18,46 @@
 		9FC9D805142A3BEC00BC31D0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FC9D804142A3BEC00BC31D0 /* main.m */; };
 		9FC9D809142A3BEC00BC31D0 /* StorybookAppAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FC9D808142A3BEC00BC31D0 /* StorybookAppAppDelegate.m */; };
 		9FC9D80C142A3BEC00BC31D0 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9FC9D80A142A3BEC00BC31D0 /* MainWindow.xib */; };
+		9FC9D815142A3CE400BC31D0 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FC9D813142A3CE400BC31D0 /* RootViewController.m */; };
+		9FC9D816142A3CE400BC31D0 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9FC9D814142A3CE400BC31D0 /* RootViewController.xib */; };
+		9FD03ED5142B4DE300D22348 /* Character.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FD03ED4142B4DE300D22348 /* Character.m */; };
+		9FD03ED8142B4E8D00D22348 /* Animation.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FD03ED7142B4E8D00D22348 /* Animation.m */; };
+		9FD03EE1142B58B300D22348 /* PathAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 9FD03EE0142B58B300D22348 /* PathAnimation.m */; };
+		9FD03EE7142B5B2300D22348 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FD03EE6142B5B2300D22348 /* QuartzCore.framework */; };
+		9FD03EE9142B67CA00D22348 /* spidey.png in Resources */ = {isa = PBXBuildFile; fileRef = 9FD03EE8142B67CA00D22348 /* spidey.png */; };
+		9FD6A2B3142F990B00146EDC /* Scenes.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9FD6A2B2142F990B00146EDC /* Scenes.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F19AB0514470DDE008047B3 /* batman-landscape.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "batman-landscape.jpg"; path = "Resources/batman-landscape.jpg"; sourceTree = SOURCE_ROOT; };
+		9F19AB0614470DDE008047B3 /* spiderman-landscape.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "spiderman-landscape.jpg"; path = "Resources/spiderman-landscape.jpg"; sourceTree = SOURCE_ROOT; };
+		9F6AC67F142A4A1E000077EF /* SceneManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SceneManager.h; sourceTree = "<group>"; };
+		9F6AC680142A4A1E000077EF /* SceneManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SceneManager.m; sourceTree = "<group>"; };
+		9F6AC682142A4A2E000077EF /* Scene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Scene.h; sourceTree = "<group>"; };
+		9F6AC683142A4A2E000077EF /* Scene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = Scene.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		9FC9D7F4142A3BEC00BC31D0 /* StorybookApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StorybookApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FC9D7F8142A3BEC00BC31D0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9FC9D7FA142A3BEC00BC31D0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9FC9D7FC142A3BEC00BC31D0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		9FC9D800142A3BEC00BC31D0 /* StorybookApp-Info.plist */ = {isa = PBXFileReference; path = "StorybookApp-Info.plist"; sourceTree = "<group>"; };
+		9FC9D800142A3BEC00BC31D0 /* StorybookApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "StorybookApp-Info.plist"; sourceTree = "<group>"; };
 		9FC9D802142A3BEC00BC31D0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9FC9D804142A3BEC00BC31D0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		9FC9D806142A3BEC00BC31D0 /* StorybookApp-Prefix.pch */ = {isa = PBXFileReference; path = "StorybookApp-Prefix.pch"; sourceTree = "<group>"; };
-		9FC9D807142A3BEC00BC31D0 /* StorybookAppAppDelegate.h */ = {isa = PBXFileReference; path = StorybookAppAppDelegate.h; sourceTree = "<group>"; };
+		9FC9D806142A3BEC00BC31D0 /* StorybookApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StorybookApp-Prefix.pch"; sourceTree = "<group>"; };
+		9FC9D807142A3BEC00BC31D0 /* StorybookAppAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StorybookAppAppDelegate.h; sourceTree = "<group>"; };
 		9FC9D808142A3BEC00BC31D0 /* StorybookAppAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StorybookAppAppDelegate.m; sourceTree = "<group>"; };
 		9FC9D80B142A3BEC00BC31D0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		9FC9D812142A3CE400BC31D0 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		9FC9D813142A3CE400BC31D0 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		9FC9D814142A3CE400BC31D0 /* RootViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
+		9FD03ED3142B4DE300D22348 /* Character.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Character.h; sourceTree = "<group>"; };
+		9FD03ED4142B4DE300D22348 /* Character.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Character.m; sourceTree = "<group>"; };
+		9FD03ED6142B4E8D00D22348 /* Animation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Animation.h; sourceTree = "<group>"; };
+		9FD03ED7142B4E8D00D22348 /* Animation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Animation.m; sourceTree = "<group>"; };
+		9FD03EDF142B58B300D22348 /* PathAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PathAnimation.h; sourceTree = "<group>"; };
+		9FD03EE0142B58B300D22348 /* PathAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PathAnimation.m; sourceTree = "<group>"; };
+		9FD03EE6142B5B2300D22348 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		9FD03EE8142B67CA00D22348 /* spidey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spidey.png; path = ../../../Downloads/spidey.png; sourceTree = "<group>"; };
+		9FD6A2B2142F990B00146EDC /* Scenes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Scenes.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +65,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FD03EE7142B5B2300D22348 /* QuartzCore.framework in Frameworks */,
 				9FC9D7F9142A3BEC00BC31D0 /* UIKit.framework in Frameworks */,
 				9FC9D7FB142A3BEC00BC31D0 /* Foundation.framework in Frameworks */,
 				9FC9D7FD142A3BEC00BC31D0 /* CoreGraphics.framework in Frameworks */,
@@ -44,6 +75,63 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9F6AC671142A408E000077EF /* Scene */ = {
+			isa = PBXGroup;
+			children = (
+				9F6AC682142A4A2E000077EF /* Scene.h */,
+				9F6AC683142A4A2E000077EF /* Scene.m */,
+				9F6AC675142A40CC000077EF /* Character */,
+			);
+			name = Scene;
+			sourceTree = "<group>";
+		};
+		9F6AC673142A40A7000077EF /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				9FD03ED6142B4E8D00D22348 /* Animation.h */,
+				9FD03ED7142B4E8D00D22348 /* Animation.m */,
+			);
+			name = Animation;
+			sourceTree = "<group>";
+		};
+		9F6AC674142A40B9000077EF /* PathAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				9FD03EDF142B58B300D22348 /* PathAnimation.h */,
+				9FD03EE0142B58B300D22348 /* PathAnimation.m */,
+			);
+			name = PathAnimation;
+			sourceTree = "<group>";
+		};
+		9F6AC675142A40CC000077EF /* Character */ = {
+			isa = PBXGroup;
+			children = (
+				9FD03ED3142B4DE300D22348 /* Character.h */,
+				9FD03ED4142B4DE300D22348 /* Character.m */,
+				9F6AC673142A40A7000077EF /* Animation */,
+				9F6AC674142A40B9000077EF /* PathAnimation */,
+			);
+			name = Character;
+			sourceTree = "<group>";
+		};
+		9F949D91142DD17300520FAE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9FD6A2B2142F990B00146EDC /* Scenes.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		9FC440CF1437861400F5671E /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				9F19AB0514470DDE008047B3 /* batman-landscape.jpg */,
+				9F19AB0614470DDE008047B3 /* spiderman-landscape.jpg */,
+				9FD03EE8142B67CA00D22348 /* spidey.png */,
+			);
+			name = Assets;
+			sourceTree = "<group>";
+		};
 		9FC9D7E9142A3BEC00BC31D0 = {
 			isa = PBXGroup;
 			children = (
@@ -64,6 +152,7 @@
 		9FC9D7F7142A3BEC00BC31D0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				9FD03EE6142B5B2300D22348 /* QuartzCore.framework */,
 				9FC9D7F8142A3BEC00BC31D0 /* UIKit.framework */,
 				9FC9D7FA142A3BEC00BC31D0 /* Foundation.framework */,
 				9FC9D7FC142A3BEC00BC31D0 /* CoreGraphics.framework */,
@@ -74,10 +163,16 @@
 		9FC9D7FE142A3BEC00BC31D0 /* StorybookApp */ = {
 			isa = PBXGroup;
 			children = (
+				9FC440CF1437861400F5671E /* Assets */,
+				9F949D91142DD17300520FAE /* Resources */,
+				9FC9D84A142A403A00BC31D0 /* SceneManager */,
 				9FC9D807142A3BEC00BC31D0 /* StorybookAppAppDelegate.h */,
 				9FC9D808142A3BEC00BC31D0 /* StorybookAppAppDelegate.m */,
 				9FC9D80A142A3BEC00BC31D0 /* MainWindow.xib */,
 				9FC9D7FF142A3BEC00BC31D0 /* Supporting Files */,
+				9FC9D812142A3CE400BC31D0 /* RootViewController.h */,
+				9FC9D813142A3CE400BC31D0 /* RootViewController.m */,
+				9FC9D814142A3CE400BC31D0 /* RootViewController.xib */,
 			);
 			path = StorybookApp;
 			sourceTree = "<group>";
@@ -91,6 +186,16 @@
 				9FC9D806142A3BEC00BC31D0 /* StorybookApp-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9FC9D84A142A403A00BC31D0 /* SceneManager */ = {
+			isa = PBXGroup;
+			children = (
+				9F6AC67F142A4A1E000077EF /* SceneManager.h */,
+				9F6AC680142A4A1E000077EF /* SceneManager.m */,
+				9F6AC671142A408E000077EF /* Scene */,
+			);
+			name = SceneManager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -142,6 +247,11 @@
 			files = (
 				9FC9D803142A3BEC00BC31D0 /* InfoPlist.strings in Resources */,
 				9FC9D80C142A3BEC00BC31D0 /* MainWindow.xib in Resources */,
+				9FC9D816142A3CE400BC31D0 /* RootViewController.xib in Resources */,
+				9FD03EE9142B67CA00D22348 /* spidey.png in Resources */,
+				9FD6A2B3142F990B00146EDC /* Scenes.plist in Resources */,
+				9F19AB0714470DDE008047B3 /* batman-landscape.jpg in Resources */,
+				9F19AB0814470DDE008047B3 /* spiderman-landscape.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -154,6 +264,12 @@
 			files = (
 				9FC9D805142A3BEC00BC31D0 /* main.m in Sources */,
 				9FC9D809142A3BEC00BC31D0 /* StorybookAppAppDelegate.m in Sources */,
+				9FC9D815142A3CE400BC31D0 /* RootViewController.m in Sources */,
+				9F6AC681142A4A1E000077EF /* SceneManager.m in Sources */,
+				9F6AC684142A4A2E000077EF /* Scene.m in Sources */,
+				9FD03ED5142B4DE300D22348 /* Character.m in Sources */,
+				9FD03ED8142B4E8D00D22348 /* Animation.m in Sources */,
+				9FD03EE1142B58B300D22348 /* PathAnimation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -228,7 +344,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "StorybookApp/StorybookApp-Prefix.pch";
 				INFOPLIST_FILE = "StorybookApp/StorybookApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -239,7 +357,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "StorybookApp/StorybookApp-Prefix.pch";
 				INFOPLIST_FILE = "StorybookApp/StorybookApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -263,6 +383,7 @@
 				9FC9D811142A3BEC00BC31D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
